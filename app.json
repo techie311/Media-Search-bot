@@ -4,7 +4,6 @@
     "keywords": [
       "telegram",
       "best",
-      "indian",
       "pyrogram",
       "media",
       "search",
@@ -12,8 +11,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Mahesh0253/Media-Search-bot",
-    "repository": "https://github.com/Mahesh0253/Media-Search-bot",
+    "website": "https://github.com/techie311/Media-Search-bot",
+    "repository": "https://github.com/techie311/Media-Search-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
